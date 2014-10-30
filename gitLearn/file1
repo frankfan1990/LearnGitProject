@@ -1,3 +1,6 @@
 这是file1,frankfan1创建
-这是file1,frankfan1的修改--分支
+<<<<<<< HEAD
 这是file1,frankfan2的修改-解决冲突
+=======
+这是file1，frankfan1的修改--分支
+>>>>>>> d81e0798b27a21d9b7659887c58bc1fdcabbc3ad
